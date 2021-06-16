@@ -1,16 +1,13 @@
 {
 	"name": "kotygor/opencart-novaposhta-pack",
 	"description": "All-in-one config file",
-	"version": "v3.5",
+	"version": "v3.5.x",
 	"type": "opencart-extension",
 
 	"require": {
 		"kotygor/opencart-extension-installer": "*",
 		"kotygor/opencart-novaposhta_api": "~v3.5",
 		"kotygor/opencart-novaposhta_api-simple": "~v3.5",
-		"kotygor/opencart-novaposhta_api-patches": "~v0"
-	},
-	"require-dev": {
 		"kotygor/opencart-novaposhta_api-patches": "dev-master"
 	},
 	"repositories": [
