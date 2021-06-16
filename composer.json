@@ -10,7 +10,14 @@
 		"kotygor/opencart-novaposhta_api-simple": "~v3.5",
 		"kotygor/opencart-novaposhta_api-patches": "~v0"
 	},
+	"require-dev": {
+		"kotygor/opencart-novaposhta_api-patches": "dev-master"
+	},
 	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/kotygor/opencart-novaposhta-pack"
+		},
 		{
 			"type": "git",
 			"url": "https://github.com/kotygor/opencart-novaposhta_api"
